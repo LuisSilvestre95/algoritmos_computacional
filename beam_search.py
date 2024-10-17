@@ -58,4 +58,3 @@ if __name__ == "__main__":
         print(f'Ruta encontrada: {camino}')
     else:
         print('No se encontró una ruta.')
-        
